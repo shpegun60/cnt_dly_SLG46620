@@ -1,0 +1,133 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'i_clk_source_mux[0]'
+Slack : -9.555
+TNS   : -139.766
+
+Type  : Slow 1100mV 85C Model Setup 'i_edge_reset_mode_select[0]'
+Slack : -7.665
+TNS   : -103.263
+
+Type  : Slow 1100mV 85C Model Hold 'i_clk_source_mux[0]'
+Slack : -2.894
+TNS   : -5.983
+
+Type  : Slow 1100mV 85C Model Hold 'i_edge_reset_mode_select[0]'
+Slack : 0.063
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'i_clk_source_mux[0]'
+Slack : -4.587
+TNS   : -46.095
+
+Type  : Slow 1100mV 85C Model Removal 'i_clk_source_mux[0]'
+Slack : -2.764
+TNS   : -35.696
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'i_clk_source_mux[0]'
+Slack : -1.273
+TNS   : -70.502
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'i_edge_reset_mode_select[0]'
+Slack : -0.170
+TNS   : -0.297
+
+Type  : Slow 1100mV 0C Model Setup 'i_clk_source_mux[0]'
+Slack : -9.301
+TNS   : -137.179
+
+Type  : Slow 1100mV 0C Model Setup 'i_edge_reset_mode_select[0]'
+Slack : -7.442
+TNS   : -99.496
+
+Type  : Slow 1100mV 0C Model Hold 'i_clk_source_mux[0]'
+Slack : -2.733
+TNS   : -5.268
+
+Type  : Slow 1100mV 0C Model Hold 'i_edge_reset_mode_select[0]'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'i_clk_source_mux[0]'
+Slack : -4.486
+TNS   : -44.488
+
+Type  : Slow 1100mV 0C Model Removal 'i_clk_source_mux[0]'
+Slack : -2.551
+TNS   : -33.154
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'i_clk_source_mux[0]'
+Slack : -1.312
+TNS   : -72.011
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'i_edge_reset_mode_select[0]'
+Slack : -0.123
+TNS   : -0.244
+
+Type  : Fast 1100mV 85C Model Setup 'i_clk_source_mux[0]'
+Slack : -5.782
+TNS   : -84.220
+
+Type  : Fast 1100mV 85C Model Setup 'i_edge_reset_mode_select[0]'
+Slack : -4.021
+TNS   : -53.735
+
+Type  : Fast 1100mV 85C Model Hold 'i_clk_source_mux[0]'
+Slack : -1.704
+TNS   : -2.700
+
+Type  : Fast 1100mV 85C Model Hold 'i_edge_reset_mode_select[0]'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'i_clk_source_mux[0]'
+Slack : -3.423
+TNS   : -22.652
+
+Type  : Fast 1100mV 85C Model Removal 'i_clk_source_mux[0]'
+Slack : -1.725
+TNS   : -22.695
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'i_clk_source_mux[0]'
+Slack : -0.815
+TNS   : -23.101
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'i_edge_reset_mode_select[0]'
+Slack : -0.378
+TNS   : -4.011
+
+Type  : Fast 1100mV 0C Model Setup 'i_clk_source_mux[0]'
+Slack : -5.213
+TNS   : -76.246
+
+Type  : Fast 1100mV 0C Model Setup 'i_edge_reset_mode_select[0]'
+Slack : -3.529
+TNS   : -47.319
+
+Type  : Fast 1100mV 0C Model Hold 'i_clk_source_mux[0]'
+Slack : -1.571
+TNS   : -2.195
+
+Type  : Fast 1100mV 0C Model Hold 'i_edge_reset_mode_select[0]'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'i_clk_source_mux[0]'
+Slack : -3.022
+TNS   : -19.290
+
+Type  : Fast 1100mV 0C Model Removal 'i_clk_source_mux[0]'
+Slack : -1.560
+TNS   : -20.746
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'i_clk_source_mux[0]'
+Slack : -0.781
+TNS   : -22.365
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'i_edge_reset_mode_select[0]'
+Slack : -0.291
+TNS   : -3.158
+
+------------------------------------------------------------

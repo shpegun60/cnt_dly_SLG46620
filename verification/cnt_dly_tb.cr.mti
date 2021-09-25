@@ -1,0 +1,45 @@
+C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/adc_tb.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\adc_tb.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package adc_tb_sv_unit
+-- Importing package slg46620_cnt0_pkg
+-- Compiling interface signals_intf
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package cnt_sv_unit
+-- Importing package slg46620_cnt0_pkg
+-- Compiling module cnt_fsm_mode
+
+Top level modules:
+	cnt_fsm_mode
+
+} {} {}} C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/dly.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\dly.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package dly_sv_unit
+-- Importing package slg46620_cnt0_pkg
+-- Compiling module dly_mode
+
+Top level modules:
+	dly_mode
+
+} {} {}} C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt_dly_macrocell.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package cnt_dly_macrocell_sv_unit
+-- Importing package slg46620_cnt0_pkg
+-- Compiling module cnt_dly_macrocell
+
+Top level modules:
+	cnt_dly_macrocell
+
+} {} {}} C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt_dly_macrocell_pkg.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell_pkg.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package slg46620_cnt0_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}

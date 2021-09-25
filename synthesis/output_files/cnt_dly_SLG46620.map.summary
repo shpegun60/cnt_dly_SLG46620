@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sun Sep 12 13:39:48 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : cnt_dly_SLG46620
+Top-level Entity Name : cnt_dly_macrocell
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 19
+Total pins : 46
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

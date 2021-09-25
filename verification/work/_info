@@ -1,0 +1,385 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/install/QuestaSim/examples
+T_opt
+!s110 1631355866
+V]iDb9QYP;50An4<<:oEYZ0
+Z1 04 3 4 work top fast 0
+=1-02004c4f4f50-613c83da-5e-984
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1631373230
+VJ5<Y;2Z1Z@:DYdX7L2CY:1
+R1
+=23-02004c4f4f50-613cc7ae-f3-3240
+o-quiet -auto_acc_if_foreign -work work -L C:/Users/Sit19/Documents/Verifycation/cnt_dly_tb/altera_primitives +acc
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1631442826
+Ve18kXK9T5_?mI[H;N0NK72
+R1
+=86-02004c4f4f50-613dd78a-25d-38b4
+o-quiet -auto_acc_if_foreign -work work -L C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/altera_primitives +acc
+R2
+n@_opt2
+OL;O;2020.1;71
+Xadc_tb_sv_unit
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 DXx4 work 17 slg46620_cnt0_pkg 0 22 hOfiCBU866_Y<QX^@bC6k1
+Z6 !s110 1631442824
+Vjo=efZ1PjfQX[T_?TV?8k3
+r1
+!s85 0
+!i10b 1
+!s100 84TnML]J=dVie:M=Od`dM3
+Ijo=efZ1PjfQX[T_?TV?8k3
+!i103 1
+S1
+Z7 dC:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification
+Z8 w1631442819
+Z9 8C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\adc_tb.sv
+Z10 FC:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\adc_tb.sv
+!i122 1413
+L0 3 0
+Z11 OL;L;2020.1;71
+31
+Z12 !s108 1631442823.000000
+Z13 !s107 C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\adc_tb.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\adc_tb.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcnt
+R4
+Z16 DXx4 work 17 slg46620_cnt0_pkg 0 22 jXOH5;kd?c:?;5UDhXi<n2
+DXx4 work 11 cnt_sv_unit 0 22 RXG=aJUoaae]iU_IN1W@V1
+!s110 1631382263
+Z17 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 _SZQgaf0zfnl<`9FPd:>U2
+IIaaijgb[KgWejDU;aeBfb2
+Z18 !s105 cnt_sv_unit
+S1
+R7
+w1631382254
+Z19 8C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv
+Z20 FC:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv
+!i122 211
+L0 3 60
+R11
+31
+!s108 1631382263.000000
+Z21 !s107 C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv|
+Z22 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/cnt.sv|
+!i113 0
+R15
+R2
+vcnt_dly_macrocell
+R4
+R5
+DXx4 work 25 cnt_dly_macrocell_sv_unit 0 22 LgN3aH=U0d1aJQB@GlS4D0
+R6
+R17
+r1
+!s85 0
+!i10b 1
+!s100 b@IFjkaGa_zHBGBRdLGV<1
+IgoO1_9D[2GDP?bzRih^k<1
+!s105 cnt_dly_macrocell_sv_unit
+S1
+R7
+Z23 w1631437850
+Z24 8C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell.sv
+Z25 FC:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell.sv
+!i122 1414
+L0 11 147
+R11
+31
+Z26 !s108 1631442824.000000
+Z27 !s107 C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell.sv|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell.sv|
+!i113 0
+R15
+R2
+Xcnt_dly_macrocell_sv_unit
+R4
+R5
+R6
+VLgN3aH=U0d1aJQB@GlS4D0
+r1
+!s85 0
+!i10b 1
+!s100 YiZRaR^BAW5mhF8TBLK3U1
+ILgN3aH=U0d1aJQB@GlS4D0
+!i103 1
+S1
+R7
+R23
+R24
+R25
+!i122 1414
+Z29 L0 1 0
+R11
+31
+R26
+R27
+R28
+!i113 0
+R15
+R2
+vcnt_fsm_mode
+R4
+R5
+DXx4 work 11 cnt_sv_unit 0 22 M4mTa0Xb:6:b5k6aazbmV2
+R6
+R17
+r1
+!s85 0
+!i10b 1
+!s100 e?nj3YanC<Kfei5kA=T^>1
+I>GWf2KRMm1UHZIXNN]:b31
+R18
+S1
+R7
+Z30 w1631436951
+R19
+R20
+!i122 1417
+L0 3 67
+R11
+31
+R26
+R21
+R22
+!i113 0
+R15
+R2
+vcnt_mode
+R4
+R16
+DXx4 work 11 cnt_sv_unit 0 22 =3D^^XgJ1Q?O;6EafC93[2
+!s110 1631392508
+R17
+r1
+!s85 0
+!i10b 1
+!s100 `N8N:@`aS5kJK0[m65`Hn0
+IWYjK;F?9GedG61VPnngQK0
+R18
+S1
+R7
+w1631392150
+R19
+R20
+!i122 976
+L0 3 62
+R11
+31
+!s108 1631392508.000000
+R21
+R22
+!i113 0
+R15
+R2
+Xcnt_sv_unit
+R4
+R5
+R6
+VM4mTa0Xb:6:b5k6aazbmV2
+r1
+!s85 0
+!i10b 1
+!s100 fYn?J[H0>`AfC]7z_>aWo2
+IM4mTa0Xb:6:b5k6aazbmV2
+!i103 1
+S1
+R7
+R30
+R19
+R20
+!i122 1417
+R29
+R11
+31
+R26
+R21
+R22
+!i113 0
+R15
+R2
+vdly
+R4
+R16
+DXx4 work 11 dly_sv_unit 0 22 OGX9hS[KFYNoAJBk:6DI=1
+!s110 1631381536
+R17
+r1
+!s85 0
+!i10b 1
+!s100 FBD>4Hlo2C;DULU5WMRIn3
+ILO;V6R6XOkQgj6jbVE65c3
+Z31 !s105 dly_sv_unit
+S1
+R7
+w1631381361
+8C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/dly.sv
+FC:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/dly.sv
+!i122 166
+Z32 L0 3 64
+R11
+31
+!s108 1631381536.000000
+!s107 C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/dly.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification/dly.sv|
+!i113 0
+R15
+R2
+vdly_mode
+R4
+R5
+DXx4 work 11 dly_sv_unit 0 22 @gK^eP9N^839<4W2BzYmh0
+R6
+R17
+r1
+!s85 0
+!i10b 1
+!s100 a>MG1;T;iW<8TW59:]DQ=3
+I2:ZULW>^R6a7enin:^CnC2
+R31
+S1
+R7
+Z33 w1631397663
+Z34 8C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\dly.sv
+Z35 FC:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\dly.sv
+!i122 1416
+R32
+R11
+31
+R26
+Z36 !s107 C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\dly.sv|
+Z37 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\dly.sv|
+!i113 0
+R15
+R2
+Xdly_sv_unit
+R4
+R5
+R6
+V@gK^eP9N^839<4W2BzYmh0
+r1
+!s85 0
+!i10b 1
+!s100 =?X[nILeDTK4`ee?AEJcN1
+I@gK^eP9N^839<4W2BzYmh0
+!i103 1
+S1
+R7
+R33
+R34
+R35
+!i122 1416
+R29
+R11
+31
+R26
+R36
+R37
+!i113 0
+R15
+R2
+Ysignals_intf
+R4
+R5
+Z38 DXx4 work 14 adc_tb_sv_unit 0 22 jo=efZ1PjfQX[T_?TV?8k3
+R6
+R17
+r1
+!s85 0
+!i10b 1
+!s100 ]e78gh0?RK93nMAiOf@a10
+I;ahLaN6105PHdf0Vl[Z:J3
+Z39 !s105 adc_tb_sv_unit
+S1
+R7
+R8
+R9
+R10
+!i122 1413
+L0 5 0
+R11
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+Xslg46620_cnt0_pkg
+R4
+R6
+!i10b 1
+!s100 4m<W2[98^el3VF]JJA>=g0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IhOfiCBU866_Y<QX^@bC6k1
+VhOfiCBU866_Y<QX^@bC6k1
+S1
+R7
+w1631438209
+8C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell_pkg.sv
+FC:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell_pkg.sv
+!i122 1415
+L0 2 0
+R11
+r1
+!s85 0
+31
+R26
+!s107 C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\admin\Documents\FPGA\cnt_dly_SLG46620\verification\cnt_dly_macrocell_pkg.sv|
+!i113 0
+R15
+R2
+vtop
+R4
+R5
+R38
+R6
+R17
+r1
+!s85 0
+!i10b 1
+!s100 Ki^M3YG;<EhQ:>TO[i>;<0
+IAldMMYo6Bf4<4Bga]R1:I0
+R39
+S1
+R7
+R8
+R9
+R10
+!i122 1413
+L0 19 199
+R11
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2

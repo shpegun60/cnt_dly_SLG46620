@@ -1,0 +1,193 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_edge_detect_out",
+					"strict" : false
+				},
+				{
+					"name" : "o_out",
+					"strict" : false
+				},
+				{
+					"name" : "i_edge_reset_mode_select[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_edge_reset_mode_select[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_resetin_timer",
+					"strict" : false
+				},
+				{
+					"name" : "i_macrocell_function_select[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_macrocell_function_select[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_in",
+					"strict" : false
+				},
+				{
+					"name" : "i_reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk_source_mux[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk_source_mux[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[4]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[5]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[6]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[7]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk_source_mux[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[8]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[9]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[10]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[11]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[12]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[13]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[14]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clks[15]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk_source_mux[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i_up",
+					"strict" : false
+				},
+				{
+					"name" : "i_keep",
+					"strict" : false
+				},
+				{
+					"name" : "i_reset_set_mode",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[13]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[12]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[11]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[10]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[9]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[8]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[7]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[6]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[5]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[4]",
+					"strict" : false
+				},
+				{
+					"name" : "i_data_from_register[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

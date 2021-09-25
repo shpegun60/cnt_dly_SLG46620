@@ -1,0 +1,1096 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/admin/Documents/FPGA/cnt_dly_SLG46620/verification
+valt_bidir_buf
+Z1 !s110 1631375743
+!i10b 1
+!s100 ;m8]kFbkUSWbEMjTXUaSd0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ild_oD[;SVEVW`4C`jDNeU2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1536793752
+Z5 8C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.v
+Z6 FC:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.v
+!i122 3
+L0 1217 32
+Z7 OL;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1631375743.000000
+!s107 C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.v|
+Z9 !s90 -reportprogress|300|-work|altera_primitives|C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.v|
+!i113 0
+Z10 o-work altera_primitives -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+valt_bidir_diff
+R1
+!i10b 1
+!s100 T4U;Y^I?RGOLT45SSL7K`2
+R2
+I]:W4h]3h;;[H::6gL?NR[0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1179 36
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.v|
+R9
+!i113 0
+R10
+R11
+valt_inbuf
+R1
+!i10b 1
+!s100 `W`KX`Rd`h?;f2X>=gYOn2
+R2
+I6n@:Al@oZne=gfn6:AG620
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 984 13
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_inbuf_diff
+R1
+!i10b 1
+!s100 :1E[Y;Sk;ZN1GTYlL`=773
+R2
+I0D?VB9Z@@7jGO3zg^k26`3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1067 28
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_iobuf
+R1
+!i10b 1
+!s100 @a5hh1fPc?8o;ZR1@<E;G1
+R2
+IcjG6V1`bTkRkbL8KcQCW81
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1038 27
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_iobuf_diff
+R1
+!i10b 1
+!s100 W]7F1NGYPkj8`aKIG<1_92
+R2
+I7jJG<Mlnacf;I7ai`gVML0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1140 37
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_outbuf
+R1
+!i10b 1
+!s100 k:znd=N?P;[<=7E04i5Fn1
+R2
+IA8zM8?cJ_SZ3Y7NjPdJ=]2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 999 17
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_outbuf_diff
+R1
+!i10b 1
+!s100 F8baO]IOPS`WZNBc2@M5K3
+R2
+IWQ@AfZe62Q5Ck]K0^L:8@2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1097 19
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_outbuf_tri
+R1
+!i10b 1
+!s100 HcbL]78gZfI4NRKH:dh=T1
+R2
+I4HCbO`nh<S7Dh]E39h0_G2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1018 18
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+valt_outbuf_tri_diff
+R1
+!i10b 1
+!s100 Q^R2e`YA@VObHLDkAJK6z3
+R2
+IJSCHbeDLbmA:VO0LFbDo?1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1118 20
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+Paltera_primitives_components
+Z13 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z14 DPx4 work 11 dffeas_pack 0 22 Q9noJzK;fQHSmfRSKThG:2
+Z15 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z16 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z17 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z18 w1536793748
+R0
+Z19 8C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd
+Z20 FC:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd
+l0
+L46 1
+V81k_[[>EEzUQkcJbKJYKj1
+!s100 RYTh1CVZ8[0oKiRk0YPJY3
+Z21 OL;C;2020.1;71
+32
+Z22 !s110 1631375738
+!i10b 1
+Z23 !s108 1631375738.000000
+Z24 !s90 -reportprogress|30|-work|altera_primitives|C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd|
+Z25 !s107 C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd|
+!i113 0
+Z26 o-work altera_primitives
+Z27 tExplicit 1 CvgOpt 0
+vcarry
+R1
+!i10b 1
+!s100 G8Vgg]kIKhE`CaV[k3NY;2
+R2
+I[l;b0?TUQJ6VHP<Q@=[1O1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 48 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vcarry_sum
+R1
+!i10b 1
+!s100 nDll7>KdEdlJVAKz[jJ^X2
+R2
+Ig@FGQ:1Wh[NCUD2TfZN9>2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 64 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vcascade
+R1
+!i10b 1
+!s100 h8JEHFhLT^:I11jEQ:aZ?1
+R2
+IB;bjT]3;;jeBGJ?D1H1Mj2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 56 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vclklock
+R1
+!i10b 1
+!s100 F]MD:zPTg6g`^H=`LHKBk0
+R2
+I2XCPA[[l<lVL[T_UlDSim0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 589 392
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vdff
+R1
+!i10b 1
+!s100 ^56EX@4STGU0R^l@i1zOK0
+R2
+Img>zQ=A3EL>IlJmSLb1c00
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 202 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vdffe
+R1
+!i10b 1
+!s100 CL5Iz[P=h>K0d6=];fd?A3
+R2
+I54N9E]DMFZLd?Ri@kRCSB3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 213 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vdffea
+R1
+!i10b 1
+!s100 Uemj3^`eUe6h[<[CH2UW>3
+R2
+IIICV3gIa>l96fEDJX@V190
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 224 20
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vdffeas
+R1
+!i10b 1
+!s100 3^UU4AQjO>[P<O3HZ1DA]1
+R2
+IP^FcXY]6P<chM;kY>XQ>W1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 246 92
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+Pdffeas_pack
+R13
+R15
+R16
+R17
+!i122 1
+R18
+R0
+R19
+R20
+l0
+L25 1
+VQ9noJzK;fQHSmfRSKThG:2
+!s100 8nG3RgH93_aNnh^AhF]jM0
+R21
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R26
+R27
+vdffeas_pr
+R1
+!i10b 1
+!s100 Y?ib5]A9_Ijg_=`O@jF1G1
+R2
+I_=o;;WQnOLSMd`EJL?Im:3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 340 93
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vdlatch
+R1
+!i10b 1
+!s100 :Cn3o<lIHNZ;mM4;eNSSP0
+R2
+ILbEhodY<3Q`Zko6;056:J2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 152 16
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vexp
+R1
+!i10b 1
+!s100 cD]JTAeIc0g629oof;]nX1
+R2
+I]ioP[`80J755^NQEjbzW[2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 75 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vglobal
+R1
+!i10b 1
+!s100 jdKG_:iPF3QzGOAe?1f@W0
+R2
+I_LaXCA5^Xah@:1@;mza750
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 37 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vjkff
+R1
+!i10b 1
+!s100 T2Fmh9K5PikWn<zniFARY3
+R2
+IPVjJb`aFH;RZ?4HPNc_@D1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 513 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vjkffe
+R1
+!i10b 1
+!s100 GZ`n=4>j_1Z2_eI=Qo]=L1
+R2
+IVco`K8:;hmn8ncH;9PQ1G2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 524 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vlatch
+R1
+!i10b 1
+!s100 I?mDd7zNYJ?c5TO>iRB562
+R2
+IiZWcHna?zM7o8Tcbkdj1<1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 138 12
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vlut_input
+R1
+!i10b 1
+!s100 Vh^TX6[R6>=U2W>aK^APN0
+R2
+I80MT`mOdT0ZT`Kb?LCRb53
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 122 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vlut_output
+R1
+!i10b 1
+!s100 ;9Lh<T<nf_7JYXAzB7ER12
+R2
+INlT00o:gb@dR9A2>QUKXI0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 130 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vopndrn
+R1
+!i10b 1
+!s100 d=L9B6?eDIU]NhKUf6oYe3
+R2
+IhEFo0`=nc1]:@Vk4bzB=63
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 97 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vprim_gdff
+R1
+!i10b 1
+!s100 Om>=L6RgLVXNCVAF6gTE?0
+R2
+IVZQhO0Q1d>W_dQC_EK>e[2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 170 30
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+UPRIM_GDFF_HIGH
+R1
+!i10b 1
+!s100 BV[Mja:4FJR3mGI?l8Wm;2
+R2
+I1oCzF[na5T_oJn4E4]o7[0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1336 0
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+n@p@r@i@m_@g@d@f@f_@h@i@g@h
+UPRIM_GDFF_HIGH_SCLR_PRIORITY
+R1
+!i10b 1
+!s100 C2]Q`F8hL9@MgMJI89`Un2
+R2
+I63?ITf^l5;2Zj@;?Q5R[J0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1379 0
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+n@p@r@i@m_@g@d@f@f_@h@i@g@h_@s@c@l@r_@p@r@i@o@r@i@t@y
+UPRIM_GDFF_LOW
+R1
+!i10b 1
+!s100 ;m2Xm0^j=Jj:5RBFClc7U2
+R2
+IZST<=a_In7TFQnS<`;Xm62
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1250 0
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+n@p@r@i@m_@g@d@f@f_@l@o@w
+UPRIM_GDFF_LOW_SCLR_PRIORITY
+R1
+!i10b 1
+!s100 `FAHi;k75j]^bPI`PncFE2
+R2
+I3oLgano[YQoZkD`ZW?OWB0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 1293 0
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+n@p@r@i@m_@g@d@f@f_@l@o@w_@s@c@l@r_@p@r@i@o@r@i@t@y
+vprim_gjkff
+R1
+!i10b 1
+!s100 ncojCS[djJ:o@Ae@LjWW91
+R2
+IDaL5X4mCGHPMfoo8b@J3F3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 483 28
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vprim_gsrff
+R1
+!i10b 1
+!s100 @U7N5mBeL7MG=;SaW3zXl1
+R2
+IFaJ8RO7@5lBzOI3GVco4K1
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 535 28
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vprim_gtff
+R1
+!i10b 1
+!s100 9U]NjLmmJ1gQkI[Z?C[f70
+R2
+IcT[GSR`zVEHz:0ZDP7:j?0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 435 24
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vrow_global
+R1
+!i10b 1
+!s100 h_2P4jXG7k^D=gQ]6coVE3
+R2
+INT^nL=:_l2QEg`maQlM7e0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 105 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vsoft
+R1
+!i10b 1
+!s100 3NjKY2[M?j2UJlGK93bBn0
+R2
+IG=YVC9nElLh7WI>cZ?I4b3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 86 6
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vsrff
+R1
+!i10b 1
+!s100 O1M]90i8W_GU?C^eV@Gc;1
+R2
+IhB9_MiNNh6GWW3V>`=0Em0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 565 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vsrffe
+R1
+!i10b 1
+!s100 ja4Bfk_=WEMgF1lbOKXoG2
+R2
+IPeof4dQ32AbicXZJdTJVN2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 576 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vtff
+R1
+!i10b 1
+!s100 ^GUW^2i_czghC:AHXX:VQ0
+R2
+IAZX7bAQoAhHze^WRg3_2N0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 461 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vtffe
+R1
+!i10b 1
+!s100 zDZ;8]08n2d@3Zc=I>>JO1
+R2
+ISh[R;b=^2;7aZcJBlMH]b0
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 472 9
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+vTRI
+R1
+!i10b 1
+!s100 :]HcMiL?RI1PVFhYV43]^3
+R2
+IGjKLW;iDH18d41db10RG[3
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 113 7
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 0
+R10
+R11
+n@t@r@i
+Etri
+Z28 w1536793754
+R16
+R17
+!i122 2
+R0
+Z29 8C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.vhd
+Z30 FC:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.vhd
+l0
+L246 1
+VV>YQ31WOK?M]7<QF:`iN53
+!s100 z=XB[?F;I;^3h?=O8F@lT2
+R21
+32
+Z31 !s110 1631375740
+!i10b 1
+Z32 !s108 1631375740.000000
+Z33 !s90 -reportprogress|30|-work|altera_primitives|C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.vhd|
+Z34 !s107 C:/intelFPGA/18.1/quartus/eda/sim_lib/altera_primitives.vhd|
+!i113 0
+R26
+R27
+Abehavior
+R16
+R17
+DEx4 work 3 tri 0 22 V>YQ31WOK?M]7<QF:`iN53
+!i122 2
+l253
+L252 5
+VK8YJYVglWz8ZGSUj7kZD41
+!s100 LVY^TNQ1G>SoP?NTNH_AZ2
+R21
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 0
+R26
+R27
